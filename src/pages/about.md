@@ -7,7 +7,9 @@ title: "About"
 
 <img src="/favicon.svg" alt="Avatar" class="w-32 h-32 rounded-full" />
 
-Hi, I'm Mahmud Hossain Sushmoy. I’m a Software Engineer focused on building high-performance mobile and web applications that are as stable as the systems they run on.
+Hi, I'm Mahmud Hossain Sushmoy. I’m a Software Engineer focused on building high-performance and scalable mobile and web applications.
+
+Check my [full resume](/Mahmud_Hossain_Sushmoy_Resume.pdf).
 
 ## Preferred Tools
 
