@@ -1,10 +1,9 @@
 ---
-pubDatetime: 2026-03-28T17:30:00Z
+pubDatetime: 2026-03-28T11:30:00Z
 title: Hello, World!
 postSlug: hello-world
 featured: true
 draft: false
-archived: false
 description: Launching my personal space
 ---
 
