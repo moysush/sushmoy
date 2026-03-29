@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/moysush",
   desc: "A clean, minimal portfolio and blog showcasing Full Stack and React Native development.",
   title: "Sushmoy",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "my-og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
