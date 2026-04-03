@@ -7,9 +7,11 @@ title: "About"
 
 <img src="/favicon.svg" alt="Avatar" class="w-32 h-32 rounded-full" />
 
-Hi, I'm Mahmud Hossain Sushmoy. I’m a Software Engineer focused on building high-performance and scalable mobile and web applications.
+Hi, I'm Mahmud.
 
-Check my [full resume](/Mahmud_Hossain_Sushmoy_Resume.pdf).
+I’m a **remote-focused full-stack engineer** specializing in **React Native** mobile development and **TypeScript** web applications. I build production-ready systems with strict type safety (**zero-any policy**), efficient data fetching, and scalable state management.
+
+[📄 View My Resume](https://rxresu.me/sushmoy/mahmud-hossain-sushmoy-resume)
 
 ## Preferred Tools
 
