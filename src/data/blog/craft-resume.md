@@ -4,17 +4,17 @@ title: How I crafted my resume
 postSlug: craft-resume
 featured: true
 draft: false
-description: a journey of crafting my resume
+description: A journey of crafting my resume, from chaos to peace
 tags: [career]
 ---
 
-When I decided to switch careers into **software development**, I didn't expect the resume to be the hard part. Turns out, finding the right tool to build one was its own rabbit hole. In this post, I'll share what the journey looked like and what I discovered.
+As a student breaking into **software development**, I didn't expect the resume to be the hard part. Turns out, finding the right tool to build one was its own rabbit hole. In this post, I'll share what the journey looked like and what I discovered.
 
 > There's no perfect resume.
 
 You can view the final output of my resume [here](https://rxresu.me/sushmoy/mahmud-hossain-sushmoy-resume).
 
-## Path of the Resume 🛣️
+## Path of the Resume 
 
 For my upcoming job hunt, I had to prepare my resume, and it's been a wild ride. I've tried dozens of resume builders online over the years, including Novoresume, OpenResume, Teal, etc. Most of them felt limiting in some ways unless I used their paid service (not OpenResume, though). OpenResume is great, but it only offers a few options, and I found no way to add the functionalities I need there. You may ask, why not just use plain documents? Well, I've tried it too, it can become quite messy and hard to maintain in the long run, because having full control over every design decision is exactly what makes it hard to stay consistent.
 
