@@ -1,5 +1,6 @@
 ---
 pubDatetime: 2026-04-04T15:48:00Z
+modDatetime: 2026-05-04T00:34:00+06:00
 title: How I crafted my resume
 postSlug: craft-resume
 featured: true
