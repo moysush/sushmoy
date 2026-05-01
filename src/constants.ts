@@ -29,6 +29,12 @@ export const SOCIALS: Social[] = [
   //   linkTitle: `${SITE.title} on X`,
   //   icon: IconBrandX,
   // },
+ // {
+ //    name: "Bluesky",
+ //    href: "https://bsky.app/profile/sushmoy.bsky.social",
+ //    linkTitle: `${SITE.title} on X`,
+ //    icon: IconBrandX,
+ //  },
   {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/sushmoy/",
@@ -37,7 +43,7 @@ export const SOCIALS: Social[] = [
   },
   {
     name: "Mail",
-    href: "mailto:m.hossain.sushmoy@gmail.com",
+    href: "mailto:sushmoy@duck.com",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
   },

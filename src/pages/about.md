@@ -20,7 +20,7 @@ I’m a **remote-focused full-stack engineer** specializing in **React Native** 
 | **Language** | TypeScript | Catching errors at compile-time is non-negotiable for stability. |
 | **Mobile** | React Native (Expo) | The most efficient way to ship cross-platform without compromising quality. |
 | **API** | GraphQL / Apollo | I prefer declarative data fetching to keep frontends light and fast. |
-| **Environment** | Debian (Stable) | A rock-solid foundation that prioritizes uptime and system integrity. |
+| **Operating System** | [Fedora Kinoite (Atomic)](https://fedoraproject.org/atomic-desktops/kinoite/) | A clean & minimal distribution using KDE Plasma as a desktop environment that prioritizes atomic updates to ensure a rock-solid environment. |
 
 ## Contact
 
